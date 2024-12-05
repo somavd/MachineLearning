@@ -1,0 +1,11 @@
+IT CONTAINS NO RATIO OF TRAIN AND TEST SAMPLES
+
+1)   First keep data0 to data9 text files in one folder 
+
+2)   run shuffle.py script(it will create datashuffle.txt and output.txt files)	
+	- datashuffle.txt will contain shuffled data in original format
+	- output represents correponding output
+	
+3)  run convert.py which will convert data from original format to required format into data.txt
+
+4)  To test, goto test folder and run convert.txt
